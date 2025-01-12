@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Radityatama+Nugraha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Radityatama+Nugraha!&color=FF0000" />
 </h1>
+ 
 <h2 align="center">⚒️ Still Learning Tools and Language ⚒️</h2>
 <br/>
 <div align="center">
