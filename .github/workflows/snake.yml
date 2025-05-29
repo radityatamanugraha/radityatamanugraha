@@ -1,0 +1,32 @@
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: '0 * * * *'  
+
+  push:
+    branches:
+      - main  
+
+jobs:
+  snake-animation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user: 'radityatamanugraha' 
+          width: 100
+          height: 100
+          color: green
+          logo: false
+
+      - name: Commit Snake GIF
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Generate Snake GIF'
+          file_pattern: 'snake.gif'
