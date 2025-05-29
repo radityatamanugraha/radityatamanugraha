@@ -1,30 +1,30 @@
-name: Snake Animation
+name: Generate Snake Animation
 
 on:
+  schedule:
+    - cron: "0 */24 * * *"  # Menjalankan setiap 24 jam
+  workflow_dispatch:  # Menjalankan manual
   push:
     branches:
       - main
 
 jobs:
-  snake-animation:
+  generate:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user: 'radityatamanugraha' # Ganti dengan username GitHub kamu
-          width: 100
-          height: 100
-          color: green
-          logo: false
-          # Anda dapat mengubah parameter sesuai dengan preferensi
+          github_user_name: radityatamanugraha # Ganti dengan username GitHub kamu
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Commit Snake GIF
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Push Snake Image to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          commit_message: 'Generate Snake GIF'
-          file_pattern: 'snake.gif'
+          source_dir: 'dist'
+          target_branch: gh-pages
