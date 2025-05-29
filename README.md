@@ -14,3 +14,4 @@
 <br/>
 <hr/>
 
+![Snake Animation](https://github.com/radityatamanugraha/radityatamanugraha/blob/output/dist/snake.gif)
