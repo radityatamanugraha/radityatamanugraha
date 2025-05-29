@@ -14,9 +14,3 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
- <picture>
-  ![Snake Animation](https://github.com/radityatamanugraha/radityamanugraha/blob/main/snake.gif)
-
-</div>
