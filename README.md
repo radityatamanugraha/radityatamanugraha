@@ -40,3 +40,5 @@
 
 <hr/>
 <br/>
+
+- <img src="assets/images/Robot.png" width="25"> Projects Completed: `15`
