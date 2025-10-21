@@ -1,8 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=radityatamanugraha.radityatamanugraha" />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=radityatamanugraha.radityatamanugraha" />
+  <br>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpscGg5bXluMjl2Ynh6ZDdhYndhamMxMGx5NmR0Nzd5ODJ0YXZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIDMNw8dPQUVRFzjme/giphy.gif" width="70" style="margin-right:25px;" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=80&duration=3000&lines=Hello+Everyone!+👋;+I'm+Radityatama+Nugraha!&color=1E90FF" />
-</h1>
+<div style="position: relative; top: -40px;">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=850&height=85&duration=3000&lines=Hello+Everyone!+%F0%9F%91%8B;I'm+Radityatama+Nugraha!;I+am+a+Frontend+Developer+%F0%9F%92%BB&color=1E90FF" />
+  </h1>
+</div>
 
 <hr/>
 
@@ -43,9 +49,9 @@
 
 <h2 align="center">
     <span style="display: flex; align-items: center;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWE2cHFxZGFicDdyeDd2YjRrdXRlNmNlbnp0Y2Y2cGZ3dDFxODM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="50" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3dnR1aW90YXMxMzNyMmNqdmx4aXdnb3Y0bmNtcGRqd2JrMHU2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBeM3b0G6brQCbR6RB/giphy.gif" width="50" />
   Stats
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWE2cHFxZGFicDdyeDd2YjRrdXRlNmNlbnp0Y2Y2cGZ3dDFxODM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width="50" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3dnR1aW90YXMxMzNyMmNqdmx4aXdnb3Y0bmNtcGRqd2JrMHU2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBeM3b0G6brQCbR6RB/giphy.gif" width="50" />
 </span>
 </h2>
 
