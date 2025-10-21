@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=radityatamanugraha.radityatamanugraha" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=80&duration=3000&lines=Hi+There!+👋;+I'm+Radityatama+Nugraha!&color=1E90FF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=80&duration=3000&lines=Hello+Everyone!+👋;+I'm+Radityatama+Nugraha!&color=1E90FF" />
 </h1>
 
 <hr/>
