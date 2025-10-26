@@ -1,7 +1,6 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=radityatamanugraha.radityatamanugraha" />
   <br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpscGg5bXluMjl2Ynh6ZDdhYndhamMxMGx5NmR0Nzd5ODJ0YXZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIDMNw8dPQUVRFzjme/giphy.gif" width="70" style="margin-right:25px;" />
 </div>
 
 <div style="position: relative; top: -40px;">
